@@ -12,3 +12,21 @@
 .centered{
     margin: auto 0;
 }
+
+ul >p{
+	display: inline-block;
+}
+
+#tribute-info ul li{
+	margin: auto;
+	max-width:600px;
+}
+
+#foot{
+	
+	text-align: center;
+}
+
+#foot p:first-child{
+	font-style: italic;
+}
